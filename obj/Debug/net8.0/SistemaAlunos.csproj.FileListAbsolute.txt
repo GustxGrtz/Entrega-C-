@@ -1,0 +1,14 @@
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\bin\Debug\net8.0\SistemaAlunos.exe
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\bin\Debug\net8.0\SistemaAlunos.deps.json
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\bin\Debug\net8.0\SistemaAlunos.runtimeconfig.json
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\bin\Debug\net8.0\SistemaAlunos.dll
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\bin\Debug\net8.0\SistemaAlunos.pdb
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\SistemaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\SistemaAlunos.AssemblyInfoInputs.cache
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\SistemaAlunos.AssemblyInfo.cs
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\SistemaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\SistemaAlunos.dll
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\refint\SistemaAlunos.dll
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\SistemaAlunos.pdb
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\SistemaAlunos.genruntimeconfig.cache
+C:\Users\GUSTAVOTORRESGIROTO\Documents\Sistema de alunos\SistemaAlunos\obj\Debug\net8.0\ref\SistemaAlunos.dll
